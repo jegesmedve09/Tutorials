@@ -1,0 +1,48 @@
+-----DIY PCVR Setup-----
+
+This tutorial lists paid software!
+
+In this tutorial i'm going to show you how to make your own DIY PCVR setup with a webcam and Wiimotes.
+I will also show how to patch the paid software.
+(Binaries will be linked)
+
+Requirements:
+-- Have a smartphone with a gyroscope (almost all modern ones have a gyroscope)
+-- Have a Google Cardboard or any other MobileVR headset
+-- Have a long USB cable that's compatible with the phone (faster=better)
+-- Have 2 Wiimotes with Wiimotion built in or with an adapter
+-- Compatible Bluetooth dongle
+-- Have a PCVR-Ready Computer
+-- Get the nessecary software
+
+Software:
+-- SteamVR (latest version if possible)
+-- iVRy Cardboard (the free version has no color in-game)
+-- Driver4VR (paid)
+
+Setup:
+
+Part #1
+-- Install the free version of iVRy on the phone and launch it
+-- Download the iVRy free software on computer and launch it
+-- it should try to connect to the device via WiFi or USB, ignore it and close everything (best to restart)
+-- Launch Creaminstaller and make it check for iVRy DLCs and enable the paid Cardboard or phone VR one (changes thru version to version)
+-- Computer restart is nessecary, best to restart phone too
+-- After restart, Launch the iVRy app on phone and connect the USB cable, also plug it into the computer
+-- in iVRy app go on USB and enable USB debugging
+-- Launch iVRy client on PC
+-- Successfully set up the headset!
+
+Part #2
+-- Close every app, after that launch the Driver4VR thru the emulator (Nemirtingas)
+-- It should automatically set itself up
+-- Close Driver4VR and SteamVR
+-- Start SteamVR and check if the iVRy adn Driver4VR opens, if not, try checking if it's enabled in SteamVR
+-- On Driver4VR click Start
+-- Go to Hand tracking and select Virtual Trackers
+-- Click Tracker manager and Turn on the Wiimote(s) you have and connect it to your computer via bluetooth, after that assign em to each hand in Driver4VR
+-- Click Stop and then Start again
+-- The hand tracking should work
+
+One big Restart to make sure and then you should be ready to go!
+Have fun mate!
